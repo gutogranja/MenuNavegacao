@@ -27,7 +27,7 @@ namespace MenuNavigation
 
         private void popUpLogoutButton_Click(object sender, RoutedEventArgs e)
         {
-            Application.Current.Shutdown();
+            Application.Current.Shutdown();  
         }
         
         private void openMenuButton_Click(object sender, RoutedEventArgs e)

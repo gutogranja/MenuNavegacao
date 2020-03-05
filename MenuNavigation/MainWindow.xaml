@@ -38,7 +38,7 @@
     </Window.Triggers>
     <Grid Background="LightGray">
         <Grid Height="60" VerticalAlignment="Top" Background="#FF1368BD">
-            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22">Design com WPF</TextBlock>
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22">Design com WPF - Teste Guto</TextBlock>
             <StackPanel VerticalAlignment="Center" Orientation="Horizontal" HorizontalAlignment="Right">
                 <TextBlock VerticalAlignment="Center" FontSize="18">Teste MENU</TextBlock>
                 <materialDesign:PopupBox Margin="10" PlacementMode="BottomAndAlignRightEdges" StaysOpen="False">
